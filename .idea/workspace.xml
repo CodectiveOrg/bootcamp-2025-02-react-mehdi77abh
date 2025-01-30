@@ -30,12 +30,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="task-1" />
-                    <option name="lastUsedInstant" value="1738249425" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1738249981" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1738249424" />
+                    <option name="branchName" value="task-1" />
+                    <option name="lastUsedInstant" value="1738249425" />
                   </RecentBranch>
                 </list>
               </option>
@@ -67,7 +67,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "task-1",
+    "git-widget-placeholder": "main",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
     "node.js.selected.package.stylelint": "",
@@ -93,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738249293578</updated>
-      <workItem from="1738249294678" duration="375000" />
+      <workItem from="1738249294678" duration="829000" />
     </task>
     <servers />
   </component>
