@@ -1,7 +1,5 @@
-export default function calculateIntCount<T>(array: T[]):number {
-    let count:number =0;
-
-
+export default function calculateNumberCount<T>(array: T[]): number {
+    let count = 0;
     for (const item of array) {
         if (typeof item === "number") {
             count++;
